@@ -1,11 +1,6 @@
-# Detection-and-Recognition-of-Traffic-Signals
+# Traffic-Signals-Detection-system
 
 ## Overview
-
-### Introduction
-Nowadays, traffic signals detection system has an immediate use to avoid accidents. From an online survey sourced by AAA foundation for traffic safety, deaths from drivers running red lights in America has reached more than 30% in 2017 from 2009 as shown in fig below.
-
-<img src="Report/1.JPG" align="center">
 
 Our objective is to implement an object detecting algorithm that detects traffic signals accurately under different environmental conditions like illumination, motion, etc. In this paper, we used classical computer vision techniques like Hough, SIFT and Top hat filter to detect the traffic lights. We also used YOLOv3 for accurate detection and made a comparative analysis with other methods implemented. The results of this project are stated with different cases that defines both the prospects and challenges of our algorithm implementation.
   
